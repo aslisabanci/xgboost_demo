@@ -1,6 +1,6 @@
 # Developing an XGBoost model on a Jupyter notebook and deploying to Algorithmia
 
-This repository is to demonstrate how you can create an algorithm on [Algorithmia](https://algorithmia.com), train a model and deploy it to Algorithmia for serving, all from a Jupyter notebook. 
+This repository is to demonstrate how you can create an algorithm on [Algorithmia](https://algorithmia.com), train a model and deploy it for serving, all from a Jupyter notebook. 
 
 Step by step, we will:
 
