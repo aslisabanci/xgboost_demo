@@ -511,7 +511,6 @@ To send the request to our algorithm, we will use the algorithm calling function
 
 ```python
 pos_test_input = "It doesn't work quite as expected. Not worth your money!"
-#sentiment = get_review_sentiment(pos_test_input)
 algo_result = algo_utility.call_latest_algo_version(pos_test_input)
 print(algo_result.metadata)
 print("Sentiment for the given text is: {}".format(algo_result.result["sentiment"]))
